@@ -24,12 +24,3 @@
 - **API REST**:
   - [The Movie Database (TMDb)](https://www.themoviedb.org/): Usada para obtener los datos de las películas.
 
----
-
-## 🚀 Cómo instalar y usar
-
-1. **Clonar el repositorio**:  
-   Descarga el código fuente en tu máquina local.  
-   ```bash
-   git clone https://github.com/usuario/Themoviesdb.git
-   cd Themoviesdb
